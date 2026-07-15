@@ -1,4 +1,4 @@
-import regex as re
+import re
 
 
 def remove_special_characters(username):
